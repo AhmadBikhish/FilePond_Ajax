@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="{{ asset('assets/filepond/css/filepond.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/filepond/css/adomx-view.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/filepond/css/filepond-image-preview.css') }}">
     <title>Document</title>
 </head>
